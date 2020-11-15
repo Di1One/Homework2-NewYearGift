@@ -1,0 +1,12 @@
+.vs/
+*.dll
+*.exe
+*.pdb
+*/bin/
+*/obj/
+*.json
+*.cache
+*.props
+*.txt
+*.targets
+Homework/NewYearGift/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
